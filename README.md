@@ -310,7 +310,7 @@ is a list of all files and directories
 30. What's a directory?
 ----------
 
-directories are folders 
+a Directory is a list of all records in a file system. 
 ==========
 31. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
