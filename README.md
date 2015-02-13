@@ -305,7 +305,7 @@ cd ~
 29. What's a pathname?
 ----------
 
-is a list of all files and directories
+a Pathname is the general form of the name of a file or directory
 ==========
 30. What's a directory?
 ----------
