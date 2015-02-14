@@ -17,9 +17,15 @@ $ ls<ENTER>
 
 Copy and paste the output of ls below.
 ----------
-Applications	Downloads	Music		Public		VirtualBox VMs
-Desktop		Library		My Song.band	Sites		mtec1003
-Documents	Movies		Pictures	Things		vmsLs D
+Juancarloss-Air:~ juancarlosospino$ ls
+Applications		Library			Public
+Creative Cloud Files	Movies			aardvar
+Desktop			Music			foo
+Documents		NetBeansProjects	mtec1003
+Downloads		Pictures		pineapple
+Juancarloss-Air:~ juancarlosospino$ 
+
+
 
 
 ==========
@@ -30,20 +36,41 @@ $ ls D<TAB>
 What happens?  Describe it below.
 ----------
 
-Nothing  Happened 
+No such file in directory
 
 
 ==========
 2b. Press <TAB> one more time.  Copy and paste the output below.
 ----------
 
-Desktop/   Documents/ Downloads/ 
+Display all 1434 possibilities? (y or n)
 
 ==========
 2c. Now press <ENTER>. Copy and paste the output below.
 ----------
 
-ls: D: No such file or directory
+!                            mkextunpack
+./                           mkfifo
+2to3                         mkfile
+2to3-                        mklocale
+2to3-2.7                     mknod
+2to32.6                      mkpassdb
+:                            mktemp
+AppleFileServer              mmroff
+BootCacheControl             mnthome
+BuildStrings                 moo-outdated
+CpMac                        moo-outdated5.18
+DeRez                        moose-outdated
+DevToolsSecurity             moose-outdated5.16
+DirectoryService             moose-outdated5.18
+FileStatsAgent               more
+GetFileInfo                  mount
+KernelEventAgent             mount_acfs
+MergePef                     mount_afp
+MvMac                        mount_cd9660
+NetBootClientStatus          mount_cddafs
+PasswordService              mount_devfs
+ResMerger                    moun
 
 ==========
 3.  Type:
@@ -52,10 +79,27 @@ $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
 ----------
-ent-v321-016:~ student$ ls -l
-total 0
-drwx------   3 student  staff   102 Jan 20 17:02 Applications
-
+About Stacks.lpdf
+Address Book - 05-12-2012.abbu
+Adobe
+Dear Daniela.docx
+DesignLibrary_Illustrator.log
+DesignLibrary_Photoshop.log
+MOG - New Page-5.jpeg
+Microsoft User Data
+MultimediaFoundations_Chapter003_PlanningAndDesign (1).pdf
+Processing
+ResearchPaper_Wearables_Ospino_IMT1101.docx
+Visit to Germanany Jan 2012 copy.pages
+Visit to Germanany Jan 2012 copy.pdf
+Visit to Germanany Jan 2012.pages
+iCal 2012-05-12 18:53:48.icbu
+letter to dr portika.docx
+meshmixer
+tatiana resignation.docx
+wearables 1.docx
+wearables.docx
+Juancarloss-Air:~ juancarlosospino$ 
 
 ==========
 4.  Type:
@@ -64,10 +108,9 @@ $ ls -a Documents
 
 Copy and paste the first *two lines* of output below.
 ----------
-
-ent-v321-016:~ student$ ls -a
-.			.fontconfig		Documents
-..			.freemind		Downloads
+.			.nbprofiler		Music
+..			.netbeans-derby		NetBeansProjects
+.CFUserTextEncoding	.oxilyxrrc		Pictures
 
 ==========
 5.  Type:
